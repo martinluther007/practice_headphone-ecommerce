@@ -33,6 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 ---
-A simple e-commerce website with stripe integrated and sanity. you can check it ou at [title](https://headphone-commerce.vercel.app/)
+A simple e-commerce website with stripe integrated and sanity. you can check it ou at [headphone-commerce](https://headphone-commerce.vercel.app/)
 you can purchase products if you want. Do not be scared its free.
 
