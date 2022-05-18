@@ -1,5 +1,6 @@
 {
-  "extends": ["next/babel"]
+  "extends": ["next/babel","next/core-web-vitals"],
+  "env":{"browser": true,"node": true}
   // "parser": "babel-eslint"
 
 }
