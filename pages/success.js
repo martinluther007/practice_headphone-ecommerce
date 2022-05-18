@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { BsBagCheckFill } from "react-icons/bs";
 import { useGlobalContext } from "../context/GlobalContext";
-import { runFireworks } from "../lib/UTILS.JS";
+import { runFireworks } from "../lib/utils.JS";
 
 const success = () => {
   const { setCartItems, setTotalPrice, setTotalQuantities } =
