@@ -4,7 +4,7 @@ import { BsBagCheckFill } from "react-icons/bs";
 import { useGlobalContext } from "../context/GlobalContext";
 import { runFireworks } from "../lib/utils.JS";
 
-const success = () => {
+const Success = () => {
   const { setCartItems, setTotalPrice, setTotalQuantities } =
     useGlobalContext();
   const [order, setOrder] = useState(null);
@@ -40,4 +40,4 @@ const success = () => {
   );
 };
 
-export default success;
+export default Success;
